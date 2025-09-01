@@ -1,0 +1,23 @@
+{
+  "name": "neo-inventor-microbit",
+  "version": "0.1.0",
+  "description": "Neo Inventor Kit for micro:bit \u2014 blocks for servo, NeoPixel ring, ultrasonic, fan, buzzer, OLED, and more.",
+  "license": "MIT",
+  "dependencies": {
+    "core": "*",
+    "neopixel": "github:microsoft/pxt-neopixel",
+    "oled": "github:STEMSmartLabs/oled"
+  },
+  "files": [
+    "README.md",
+    "main.ts"
+  ],
+  "testFiles": [
+    "tests/test.ts"
+  ],
+  "public": true,
+  "supportedTargets": [
+    "microbit"
+  ],
+  "preferredEditor": "blocksprj"
+}
