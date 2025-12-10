@@ -1,6 +1,7 @@
 {
-  "name": "neo-inventor-microbit",
+  "name": "Neo Inventor Microbit",
   "version": "0.1.0",
+  "icon": "https://raw.githubusercontent.com/STEMSmartLabs/Microbit-Neo-Inventor-Kit/master/icon.png", 
   "description": "Neo Inventor Kit for micro:bit \u2014 blocks for servo, NeoPixel ring, ultrasonic, fan, buzzer, OLED, and more.",
   "license": "MIT",
   "dependencies": {
